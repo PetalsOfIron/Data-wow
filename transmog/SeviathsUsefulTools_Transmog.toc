@@ -1,0 +1,8 @@
+## Interface: 120007, 120100, 120105
+## Title: SeviathsUsefulTools - transmog items
+## Notes: Where every transmog item comes from, read only when an item is looked at.
+## Dependencies: SeviathsUsefulTools
+## LoadOnDemand: 1
+## Author: Seviath
+
+Transmog.lua
