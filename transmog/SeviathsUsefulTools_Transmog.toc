@@ -5,4 +5,9 @@
 ## LoadOnDemand: 1
 ## Author: Seviath
 
-Transmog.lua
+Transmog.1.lua
+Transmog.2.lua
+Transmog.3.lua
+Transmog.4.lua
+Transmog.5.lua
+Transmog.6.lua
